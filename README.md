@@ -17,7 +17,7 @@ Working at the intersection of multimodal AI, clinical decision support, and hum
 
 - **[lpe-audit-kit](https://github.com/mk4me/lpe-audit-kit)** — read-only audit toolkit for the Q1–Q2 2026 Linux page-cache write LPE vulnerability cluster (Copy Fail, Dirty Frag, CrackArmor). Apache-2.0, fleet-mode, JSON output, signed releases.
 
-*More autorskie projekty land here as they reach public-release quality. Production code for DIVEINAI lives in [@code-diveinai](https://github.com/code-diveinai); institutional research code lives in [@RDC-PJAIT](https://github.com/RDC-PJAIT).*
+*More original projects land here as they reach public-release quality. Production code for DIVEINAI lives in [@code-diveinai](https://github.com/code-diveinai); institutional research code lives in [@RDC-PJAIT](https://github.com/RDC-PJAIT).*
 
 ## Beyond GitHub
 
@@ -27,7 +27,7 @@ Working at the intersection of multimodal AI, clinical decision support, and hum
 
 ## Contact
 
-`kulbacki@ieee.org` · [LinkedIn](https://www.linkedin.com/in/marekkulbacki) · [pja.edu.pl](https://pja.edu.pl)
+`kulbacki@ieee.org` · [LinkedIn](https://www.linkedin.com/in/kulbacki) · [pja.edu.pl](https://pja.edu.pl)
 
 ---
 
