@@ -9,7 +9,7 @@ Working at the intersection of multimodal AI, clinical decision support, and hum
 ## Current focus
 
 - **Human-Technology Symbiosis (HTS)** — integrating human augmentation with AI, robotics, and cognitive systems
-- **Clinical AI & digital twins** — pediatric rehabilitation, cerebral palsy outcome prediction, multimodal patient modelling (long-running collaboration with [MCN Zagórze](https://mcnzagorze.pl))
+- **Clinical AI & digital twins** — pediatric rehabilitation, cerebral palsy outcome prediction, multimodal patient modelling (long-running collaboration with [MCN Zagórze](https://centrumzagorze.pl))
 - **System-of-systems architecture** for healthcare and research infrastructure
 - **LLM evaluation methodology** for non-English clinical and professional contexts
 
