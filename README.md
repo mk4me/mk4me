@@ -22,7 +22,7 @@ Working at the intersection of multimodal AI, clinical decision support, and hum
 ## Beyond GitHub
 
 - **Publications & metrics** — [ORCID 0000-0003-4609-106X](https://orcid.org/0000-0003-4609-106X) · h-index 12 · 78 publications · 5 patents
-- **Roles** — BDVA Technical Board (Healthcare & Standards Task Force) · Unite! WIDENING EU Coordinator (Health & Biotech) · External Scientific Reviewer @ Inserm MESSIDORE · Member of GRAI (AI expert group, Chancellery of the Prime Minister, Poland)
+- **Roles** — BDVA Technical Board (Healthcare & Standards Task Force) · Unite! WIDENING EU Coordinator (Health & Biotech) · External Scientific Reviewer @ Inserm MESSIDORE · Ex-Member of GRAI (AI expert group, Chancellery of the Prime Minister, Poland)
 - **Background** — PhD PJATK (summa cum laude, 2022) · MSc Wrocław University of Technology (2001) · Bell Labs / Lucent Multimedia Research alumnus · 25+ years IEEE
 
 ## Contact
